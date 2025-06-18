@@ -1,2 +1,2 @@
-# -Deep-Learning-Applications-in-Heart-Diseases-Using-ECG-Signals
+# DeepLearning Applications in Heart Diseases Using ECG Signals
 Early diagnosis is essential because cardiovascular illnesses are the main cause of death worldwide although manual examination of ECG signals is subjective and time consuming it offers crucial insights into cardiac function an effective substitute for automating and improving ECG based diagnostics is deep learning CNN RNN and hybrid models are used in this study to categorise ECG data into diagnostic groups to determine the most accurate method we assess model performance using datasets from mendeley and kaggle 
